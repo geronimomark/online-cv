@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Mark Anthony Geronimo
-    tagline: Cloud DevOps Engineer
+    tagline: DevOps Engineer
     avatar: profilepic1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mark_geronimo@rocketmail.com
-    phone: +63 917 7044621
+    phone: +63 961 8423898
     #website: blog.webjeda.com #do not add http://
     linkedin: geronimomark
     github: geronimomark
@@ -67,8 +67,41 @@ education:
           - Computer Networks
 
 experiences:
-    - role: Technology Consultant
-      time: May 2019 - Present
+    - role: Senior DevOps Engineer
+      time: June 2020 - present
+      company: Carparts.com, BGC Philippines
+      details: |
+       Responsibilities include but not limited to the ff
+
+          - Lead the DevOps Team in:
+            - AWS Infrastructure Enhancements and Implementation
+            - Oversees Highly-available Infrastructure and Kubernetes application implementations
+            - Cost Optimization and Estimations
+            - Kubernetes Management and Application Designing, Implementation and Tuning
+            - Manage CI/CD pipelines which provides self-service for Application deployments
+            - Implement monitoring and alerts for infrastructure and application layers in New Relic
+            - PCI DSS Compliance Planning and Implementation
+            - Proof of Concepts on New Technologies
+          - Management of DevOps Team
+            - Provide sprint based and quarterly task estimation and allocation
+            - Provide weekly status updates with Leadership
+            - Conduct interviews of candidates for DevOps team
+            - Provide technical consultation to DevOps team 
+
+    - role: Site Reliability Engineer
+      time: Oct 2019 - June 2020
+      company: iflix, Kuala Lumpur Malaysia
+      details: |
+       Responsibilities include but not limited to the ff
+          
+          - Provide technology consultation in cloud infrastructure, container application design and implementation
+          - Maintains orchestration and self-service internal tools written in Python, Golang and NodeJS
+          - Cost optimization and Estimations
+          - Improvements in container security
+          - Kubernetes Application Designing, Implementation and Tuning
+
+    - role: Technology Consultant IV
+      time: May 2019 - Sept 2019
       company: DXC Technology, Taguig Philippines
       details: |
        Responsibilities include but not limited to the ff 
@@ -97,33 +130,34 @@ experiences:
           - Pioneer on creation of OLTP System for USSC
           - Provide knowledge transfer to Junior and Intermediate Developers
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+            #projects:
+            #    title: Projects
+            #    intro: >
+            #      You can list your side projects or open source libraries in this
+            #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+            #    assignments:
+            #      - title: Velocity
+            #        link: "#hook"
+            #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+            #      - title: DevStudio
+            #        link: "#"
+            #        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+            #      - title: Tempo
+            #        link: "#"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+            #      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+            #      - title: Atom
+            #        link: "#"
+            #        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+            #      - title: Delta
+            #        link: "#"
+            #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
         #publications:
         #    title: Publications
@@ -155,17 +189,17 @@ skills:
       - name: Infrastructure as a Code
         level: 95%
 
-      - name: Web Development
+      - name: Software Engineering
         level: 90%
 
       - name: CICD
         level: 85%
 
-      - name: DevOps
+      - name: Kubernetes
         level: 95%
 
       - name: Leadership and Presentation
-        level: 70%
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
